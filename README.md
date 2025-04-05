@@ -1,4 +1,4 @@
-# Thw Coffee Shop Expansion SQL Project
+# The Coffee Shop Expansion SQL Project
 
 
 ## **Objective**  
