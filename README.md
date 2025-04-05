@@ -1,3 +1,5 @@
+# Thw Coffee Shop Expansion SQL Project
+
 
 ## **Objective**  
 This project aims to assess sales data from *The Coffee Shop*, an online coffee retailer that began operations in January 2023. The purpose is to identify the top three cities in India with the highest potential for opening new physical coffee shop locations, based on demand patterns and sales metrics.
